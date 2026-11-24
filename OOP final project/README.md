@@ -293,10 +293,10 @@ OOP-Final-PROJECT/
 </p> 
 | Gantt chart and timing table |
 <p align="center">
-  <img src="6.png"  width="750">
+  <img src="3.png"  width="750">
 </p> 
 <p align="center">
-  <img src="3.png"  width="750">
+  <img src="6.png"  width="750">
 </p> 
 | Algorithm comparison | 
 <p align="center">
