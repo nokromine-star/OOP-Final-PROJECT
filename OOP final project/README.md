@@ -289,27 +289,27 @@ OOP-Final-PROJECT/
 |---|---|
 | Loading Screen (GUI) |
 <p align="center">
-  <img src="2.png" width="750">
+  <img src="Screenshot/2.png" width="750">
 </p> 
 | Gantt chart and timing table |
 <p align="center">
-  <img src="3.png"  width="750">
+  <img src="Screenshot/3.png"  width="750">
 </p> 
 <p align="center">
-  <img src="6.png"  width="750">
+  <img src="Screenshot/6.png"  width="750">
 </p> 
 | Algorithm comparison | 
 <p align="center">
-  <img src="4.png"  width="750">
+  <img src="Screenshot/4.png"  width="750">
 </p> 
  
 | Live race with podium |
 <p align="center">
-  <img src="5.png"  width="750">
+  <img src="Screenshot/5.png"  width="750">
 </p>  
 | Console menu |
 <p align="center">
-  <img src="7.png"  width="750">
+  <img src="Screenshot/7.png"  width="750">
 </p> 
 
 ## 12. Known Limitations
@@ -340,7 +340,7 @@ OOP-Final-PROJECT/
 ### Official Member Information and Signatures
 
 <p align="center">
-  <img src="1.png" alt="Group 2 member information and signatures" width="750">
+  <img src="Screenshot/1.png" alt="Group 2 member information and signatures" width="750">
 </p>
 
 ------------------------------------------------------------------------
