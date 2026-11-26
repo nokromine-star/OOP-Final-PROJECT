@@ -278,7 +278,7 @@ OOP-Final-PROJECT/
 
 ### UML Class Diagram
 <p align="center">
-  <img src="UML-Diagram.png" alt="Group 2 member information and signatures" width="750">
+  <img src="docs/UML-Diagram.png" alt="Group 2 member information and signatures" width="750">
 </p>
 
 ### Application Screenshots
