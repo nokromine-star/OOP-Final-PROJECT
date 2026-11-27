@@ -8,7 +8,7 @@
 > **Institution:** Batangas State University -- The National Engineering University, Alangilan Campus\
 > **College / Department:** College of Informatics and Computing Sciences, Computer Science Department\
 > **Academic Year:** 1st Semester, AY 2026--2027\
-> **Team:** Group 2 (Section IT-2109)\
+> **Team:** AIM HIGH (Section IT-2109)\
 > **Repository:** [OOP-Final-PROJECT](https://github.com/nokromine-star/OOP-Final-PROJECT)
 
 ------------------------------------------------------------------------
